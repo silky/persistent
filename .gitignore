@@ -52,3 +52,7 @@ persistent-test/db/
 
 stack.yaml.lock
 *.yaml.lock
+
+# Nix
+.envrc
+.direnv/
